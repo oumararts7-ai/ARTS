@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "ARTS",
+    "slug": "arts-by-oumar-arts",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.oumararts.arts"
+    },
+    "android": {
+      "package": "com.oumararts.arts"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "REPLACE_WITH_EXPO_PROJECT_ID"
+      }
+    }
+  }
+}
